@@ -1,6 +1,6 @@
 # CareDrive
 
-CareDrive is a patient management system that allows patients to register, sign in, and schedule appointments with doctors of their choice. Admins have a dashboard where they can manage these appointments by approving, canceling, or leaving them as pending.
+CareDrive is a patient appoitment and management system that allows patients to register, sign in, and schedule appointments with doctors of their choice. Admins have a dashboard where they can manage these appointments by approving, canceling, or leaving them as pending.
 
 ## Table of Contents
 
